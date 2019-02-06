@@ -1,2 +1,12 @@
-body {background: #d5d5d5}
-p {color: midnightblue}
+/*body {background: #d5d5d5;}*/
+body { 
+    background-image: url(image/background.png);
+}
+
+/*boby { background-image: linear-gradient(white grey); }*/
+p {color: white;}
+h2,h3 {color: #afc981;}
+h4 {color: darkcyan;}
+
+
+
