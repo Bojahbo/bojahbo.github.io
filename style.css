@@ -1,12 +1,29 @@
-/*body {background: #d5d5d5;}*/
+/*html {
+    background: url(image/background.png) no-repeat center center fixed;
+}*/
+
 body { 
     background-image: url(image/background.png);
+    background-position: center 20px;
+    font-family: sans-serif;
 }
 
 /*boby { background-image: linear-gradient(white grey); }*/
-p {color: white;}
-h2,h3 {color: #afc981;}
-h4 {color: darkcyan;}
+p {
+    color: white;
+    font-size: 16px;
+    width: 65%;
+}
+
+h2,h3 {
+    color: #afc981;
+}
+h4 {
+    color: darkcyan;
+}
+
+.greentext {color:greenyellow;}
+.yellowtext {color: yellow;}
 
 
 
